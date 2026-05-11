@@ -92,12 +92,24 @@ suraj@developer:~$ █
 
 <p align="center">
 
-🎓 <b>AI & ML Essentials</b> — University of Pennsylvania <br><br>
-🧠 <b>Explainable AI</b> — Duke University <br><br>
-📊 <b>Data Analytics Simulation</b> — Deloitte <br><br>
-💻 <b>HTML, CSS & JavaScript</b> — IBM <br><br>
-🌍 <b>YUVA AI</b> — TCS iON <br><br>
-📡 <b>Introduction to IoT</b> — IIT Bombay
+
+- Vibe Coding Essentials - Build Apps with AI — Scrimba
+- Intro to Model Context Protocol (MCP) — Scrimba
+- Vibe Coding with Claude Code — Scrimba
+- Vibe Coding with GitHub Copilot — Scrimba
+- Vibe Coding with Cursor AI — Scrimba
+- Gemini for Developers — Google DeepMind
+- Exploring AI with Google AI Studio — Google DeepMind
+- Software Engineer Intern — HackerRank
+- Advanced Retrieval for AI with Chroma — DeepLearning.AI
+- Microsoft Azure Essentials Professional Certificate — Microsoft
+- Explainable AI (XAI) — Duke University
+- Introduction to HTML, CSS & JavaScript — IBM
+- AI for Business Professionals — HP LIFE
+- Machine Learning System Design — Educative
+- Trustworthy Generative AI — Vanderbilt University
+- Artificial Intelligence Essentials — University of Pennsylvania
+- Gemini Certified University Student — Google For Education
 </p>
 
 
